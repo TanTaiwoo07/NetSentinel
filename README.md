@@ -9,6 +9,10 @@
 
 **[查看示例报告 →](docs/example-report.html)**（已脱敏，直接用浏览器打开）
 
+- 仓库：<https://github.com/TanTaiwoo07/NetSentinel>
+- 示例报告在线版（需先在仓库 Settings → Pages 里把源设为 `main` / `/docs`）：
+  <https://tantaiwoo07.github.io/NetSentinel/example-report.html>
+
 ---
 
 ## 隐私说明
