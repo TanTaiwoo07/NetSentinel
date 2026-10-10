@@ -1,0 +1,22 @@
+# ---------- 运行产物（含本机真实网络信息，禁止入库）----------
+# 快照、事件日志、报告里会包含主机名、用户名、MAC、IP、SSID、hosts 内容等。
+data/*
+!data/.gitkeep
+!data/snapshots
+data/snapshots/*
+!data/snapshots/.gitkeep
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# ---------- 其他 ----------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
